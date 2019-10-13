@@ -16,3 +16,6 @@ https://towardsdatascience.com/regression-analysis-on-life-expectancy-6914775a77
 
 # Metis Data Science Bootcamp
 https://metis.kaplan.com.sg
+
+# Connect with me:
+https://www.linkedin.com/in/jnyh/
