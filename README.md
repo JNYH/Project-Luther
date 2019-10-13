@@ -14,7 +14,7 @@ What are the factors affecting life expectancy of a country?
 https://towardsdatascience.com/regression-analysis-on-life-expectancy-6914775a77e2
 
 
-# Metis Data Science Bootcamp
+## Metis Data Science Bootcamp
 https://metis.kaplan.com.sg
 
 # Connect with me
