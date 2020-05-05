@@ -21,6 +21,7 @@ In this project, I would like to predict the life expectancy of people in a coun
 · Area
 · Population Density
 · Stroke Rate
+
 I will use these data related to life expectancy to evaluate the following models: Linear, Ridge, LASSO, and Polynomial Regression. 
 
 Here are some interesting insights:
